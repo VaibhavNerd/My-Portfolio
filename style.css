@@ -202,10 +202,12 @@ p {
 
 /* Hero Section */
 #hero {
-	background-image: url(./img/Copy\ of\ m\ o\ u\ n\ t\ a\ i\ n\ t\ o\ u\ r\ s\ \(1\).png);
+	background-image: url(./img/hr.png);
 	background-size: 100%;
-	background-position: top center;
+	background-position: center;
 	position: relative;
+	background-repeat: no-repeat;
+	background-color: #29323c;
 	z-index: 1;
 }
 #hero::after {
